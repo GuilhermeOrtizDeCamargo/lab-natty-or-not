@@ -1,22 +1,21 @@
 ### Natural ou Fake Natty?
 
 ## Aprendendo um pouco as Ferramentas com IA.
-#📒 Nesse projeto eu tive a curiosidade de fazer três tipos de pesquisas, uma no CHATGPT, outra no Bing e por fim no Playground Tensorflow.
-Com o CHATGPT criei um livro baseado em ficção cientifica, totalemtne gerado pela IA.
-No Bing criei uma imagem da própria criação do livro.
-No Playground Tensorflow fiz uma análise neural básica de duas saidas.
-O ChatGPT e o Bing tentei unsar as ferramentas para um mesmo fim, não usei o Playgraound vinculada uma a outra, mas sim apenas para verificação e aprendizado.
+#📒 Nesse projeto eu tive a curiosidade de fazer três tipos de pesquisas, uma no ChatGPT, outra no BING onde tentei unsar as ferramentas para um mesmo fim, o Playground Tensorflow.
+Com o ChatGPT criei o protótipo de um livro baseado em ficção cientifica, totalemtne gerado pela IA. (Pretendo analizar e finalizar esse trabalho muito em breve.)
+No BING criei uma imagem da própria criação do livro. (Gerada para ser a capa do livro).
+No Playground Tensorflow fiz uma análise neural básica de duas saidas. Não usei o Playgraound vinculada uma a outra, mas sim apenas para verificação e aprendizado.
 
 ## 🤖 Tecnologias Utilizadas
-CHATGPT, BING e Playground Tensorflow.
+ChatGPT, BING e Playground Tensorflow.
 
 ## 🧐 Processo de Criação
-No CHATGPT, fiz uma breve descrição de como eeu gostaria que fosse criada a história principal do livro, com especificações de personagens e lugares, data, etc.
+No ChatGPT, fiz uma breve descrição de como eu gostaria que fosse criada a história principal do livro, com especificações de personagens e lugares, data, etc.
 No BING criei uma foto de capa para esse livro, já que estive 'MUITO OCUPADO' escrevendo rsrs.
 No Playground Tensorflow foi mais para curiosidade de como funciona a aplicação, e achei bem interessante.
 
 ## 🚀 Resultados
-Gostei bastante de usar e aconselho todos a pesquisarem outras ferramentas disponíveis. 
+Gostei bastante de usar e aconselho todos a pesquisarem outras ferramentas disponíveis. (Não terminei o livro ainda rsrs, vamos dar continuidade no projeto).
 Claro que não para por aqui, existem variações multiplas de utilização de IA e vou continuar buscando aperfeiçoamento.
 
 O livro (com a capa criada) está salva no portifólio.
